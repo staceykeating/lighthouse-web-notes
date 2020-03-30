@@ -1,3 +1,7 @@
-# [Stacey]'s notes
-# This is an H1 Header (largest)
-###### This is an H6 Header (smallest)
+# Stacey's Notes
+
+
+## Summary
+
+
+This repository contains all of the notes taken by [Stacey](https://github.com/staceykeating) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) web development bootcamp.
